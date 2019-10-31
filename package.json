@@ -23,7 +23,7 @@
     "gatsby-transformer-json": "^1.0.20",
     "gatsby-transformer-remark": "^1.7.33",
     "gatsby-transformer-sharp": "^1.6.21",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.13",
     "lodash-webpack-plugin": "^0.11.4",
     "netlify-cms": "^1.7.0",
     "prop-types": "^15.6.0",
