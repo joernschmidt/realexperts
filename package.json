@@ -29,7 +29,7 @@
     "gatsby-transformer-remark": "^2.3.12",
     "gatsby-transformer-sharp": "^2.1.12",
     "intersection-observer": "^0.7.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "lodash-webpack-plugin": "^0.11.5",
     "netlify-cms": "^2.9.1",
     "node-sass": "^4.12.0",
